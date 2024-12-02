@@ -5,49 +5,31 @@
     box-sizing: border-box;
 }
 
-/* Light Mode Styles (Default) */
+/* Import Font */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-    margin: 0;
-    padding: 0;
-}
-
-/* Dark Mode Styles */
-body.dark-mode {
-    color: #ddd;
-    background-color: #121212;
-}
-
-/* Header and Navigation */
-header {
-    background-color: #0044cc;
-    color: #fff;
-    padding: 1em 0;
-    text-align: center;
-}
-
-header.dark-mode {
-    background-color: #222;
-}
-
-nav ul {
-    list-style: none;
+    color: black;
+    background-color: white;
     display: flex;
-    justify-content: center;
-    gap: 1.5em;
+    flex-direction: row;
+    margin: 0;
 }
 
-nav a {
-    text-decoration: none;
+/* Dark Mode */
+body.dark-mode {
     color: white;
-    font-weight: bold;
+    background-color: black;
 }
 
-nav a:hover {
-    text-decoration: underline;
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 1em;
+    background-color: transparent;
+    z-index: 10;
 }
 
 /* Toggle Button */
@@ -55,50 +37,89 @@ button#modeToggle {
     margin-top: 1em;
     padding: 0.5em 1em;
     background-color: white;
-    border: 1px solid #0044cc;
-    color: #0044cc;
+    color: black;
+    border: 1px solid black;
     cursor: pointer;
     border-radius: 5px;
+    font-family: 'Open Sans', Arial, sans-serif;
 }
 
 body.dark-mode button#modeToggle {
-    background-color: #333;
+    background-color: black;
     color: white;
-    border: 1px solid #ddd;
+    border: 1px solid white;
+}
+
+/* Aside Navigation */
+aside {
+    background-color: white;
+    color: black;
+    width: 250px;
+    min-height: 100vh;
+    padding: 2em 1em;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+body.dark-mode aside {
+    background-color: black;
+    color: white;
+}
+
+aside nav ul {
+    list-style: none;
+}
+
+aside nav ul li {
+    margin-bottom: 1em;
+}
+
+aside nav ul li a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+}
+
+aside nav ul li a:hover {
+    text-decoration: underline;
 }
 
 /* Main Content */
 main {
-    max-width: 800px;
-    margin: 2em auto;
-    padding: 1em;
+    margin-left: 270px; /* Space for the aside menu */
+    padding: 2em;
+    width: calc(100% - 270px);
     background: white;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 body.dark-mode main {
-    background: #1e1e1e;
+    background: black;
     box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
 }
 
+/* Typography */
 h1, h2 {
-    color: #0044cc;
+    color: black;
 }
 
 body.dark-mode h1, body.dark-mode h2 {
-    color: #4e9fff;
+    color: white;
 }
 
 /* Footer */
 footer {
     text-align: center;
     padding: 1em 0;
-    background-color: #333;
-    color: white;
+    background-color: white;
+    color: black;
     font-size: 0.9em;
 }
 
 body.dark-mode footer {
-    background-color: #000;
+    background-color: black;
+    color: white;
 }
+
