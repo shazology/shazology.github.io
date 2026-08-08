@@ -1,6 +1,6 @@
 <h2>Hello and welcome to my site 👋</h2>
 
-<img src="http://media.licdn.com/dms/image/v2/D5603AQFuQT00VKs6mg/profile-displayphoto-crop_800_800/B56Z6.7iNCKsAI-/0/1781319738413?e=1787788800&v=beta&t=qW7cZbN9IwEECBWIav4LlyXHPht6s5bm3HXL61oTFiQ" alt="A selfie with a monitor lizard on the banks of Sungei Tampines, Singapore." style="width:15rem;height:15rem;">
+<img src="http://media.licdn.com/dms/image/v2/D5603AQFuQT00VKs6mg/profile-displayphoto-crop_800_800/B56Z6.7iNCKsAI-/0/1781319738413?e=1787788800&v=beta&t=qW7cZbN9IwEECBWIav4LlyXHPht6s5bm3HXL61oTFiQ" alt="" style="width:15rem;height:15rem;">
 
 I am Shazny, but you can call me Shaz. 
 
