@@ -4,7 +4,7 @@
 
 I am Shazny, but you can call me Shaz.
 
-I am an adjunct lecturer at [Temasek Polytechnic](https://www.tp.edu.sg/), where I teach the core *Sustainability and Climate Action* module to first-year diploma students.
+I am an adjunct lecturer at [Temasek Polytechnic](https://www.tp.edu.sg/), where I teach the fundamental *Sustainability and Climate Action* module to first-year diploma students.
 
 I previously served full-time research stints at the [NUS Faculty of Law](https://law.nus.edu.sg/) and was on a hiatus from any intense research work between 2023-2025. 
 
