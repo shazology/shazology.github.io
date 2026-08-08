@@ -11,3 +11,6 @@ header_pages:
   - research.md
   - publications.md
   - presentations.md
+
+include:
+  - _assets
