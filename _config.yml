@@ -1,1 +1,14 @@
 theme: minima
+skin: classic
+
+nav_pages:
+  - research.md
+  - publications.md
+  - presentations.md
+
+title: Your awesome title
+author:
+name: GitHub User
+email: your-email@domain.com
+
+description: Sustainability law researcher and educator.
