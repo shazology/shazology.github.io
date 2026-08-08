@@ -1,5 +1,5 @@
 ---
-Title: Publications
+title: Publications
 url: /publications/
 ---
 
