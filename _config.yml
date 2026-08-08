@@ -1,1 +1,7 @@
 theme: minima
+
+locale                   : "en-US"
+title                    : "Shazny Ramlan"
+title_separator          : "-"
+name                     : "Shazny Ramlan"
+description              : "Susty law researcher and teacher."
