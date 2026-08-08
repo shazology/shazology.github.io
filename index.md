@@ -1,6 +1,6 @@
 <h2>Hello and welcome to my site 👋</h2>
 
-![alt text](image.jpg)
+![Just taking a selfie with a monitor lizard on the boardwalk along Sungei Tampines, Singapore](token_1.png)
 
 I am Shazny, but you can call me Shaz. 
 
