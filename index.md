@@ -1,6 +1,6 @@
 <h2>Hello and welcome to my site 👋</h2>
 
-<img src="https://drive.google.com/file/d/1zKnTw_u5Hi3RgVRx_ehxpaYNZkakuUnl/view?usp=drive_link" alt="le me">
+![](https://drive.google.com/file/d/1zKnTw_u5Hi3RgVRx_ehxpaYNZkakuUnl/view?usp=drive_link)
 
 I am Shazny, but you can call me Shaz. 
 
