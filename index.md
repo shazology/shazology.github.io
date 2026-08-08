@@ -1,4 +1,4 @@
-Hello and welcome to my site 👋
+<h2>Hello and welcome to my site 👋</h2>
 
 ![alt text](image.jpg)
 
