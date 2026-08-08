@@ -6,6 +6,7 @@ baseurl: ""
 
 markdown: kramdown
 theme: minima
+skin: classic
 
 header_pages:
   - research.md
