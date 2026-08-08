@@ -4,9 +4,11 @@
 
 I am Shazny, but you can call me Shaz.
 
-I am an adjunct lecturer at [Temasek Polytechnic](https://www.tp.edu.sg/), I teach the core *Sustainability and Climate Action* module to first-year diploma students.
+I am an adjunct lecturer at [Temasek Polytechnic](https://www.tp.edu.sg/), where I teach the core *Sustainability and Climate Action* module to first-year diploma students.
 
-I am also a researcher. My research studies how religious and corporate actors rationalise and implement sustainability; and the legal, political and sociological challenges therefrom. I previously served research stints at the [NUS Faculty of Law](https://law.nus.edu.sg/).
+I previously served research stints at the [NUS Faculty of Law](https://law.nus.edu.sg/) and was on a hiatus from any intense research work between 2023-2025. 
+
+My research generally concerns how religious and corporate actors rationalise and implement sustainability; and the legal, political and sociological challenges therefrom.
 
 Beyond academia, I serve on the panel of volunteer mediators of the [Syariah Court of Singapore](https://cm.syariahcourt.gov.sg/Home).
 
