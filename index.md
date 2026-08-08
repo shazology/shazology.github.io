@@ -1,6 +1,6 @@
 <h2>Hello and welcome to my site 👋</h2>
 
-![](_assets/img/token.png)
+![Ich bin naturfreund](/_assets/img/token_1.png)
 
 I am Shazny, but you can call me Shaz. 
 
