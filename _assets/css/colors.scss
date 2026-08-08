@@ -4,18 +4,18 @@
 // These are overridden in classic.css and dark.scss
 
 $color-scheme-auto: true !default;
-$color-scheme-dark: true !default;
+$color-scheme-dark: false !default;
 
 
 // Light mode
 // ----------
 
-$lm-brand-color:           #818181 !default;
+$lm-brand-color:           #0f165c !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dimmed:    darken($lm-brand-color, 11%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 
-$lm-site-title-color:      $lm-brand-color-dark !default;
+$lm-site-title-color:      $lm-brand-color !default;
 
 $lm-heading-color:         #111111 !default;
 $lm-text-color:            $lm-brand-color-dark !default;
