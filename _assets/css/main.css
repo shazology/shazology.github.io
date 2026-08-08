@@ -1,0 +1,9 @@
+---
+# Front matter dashes tell Jekyll to process this file
+---
+
+// 1. Define your new font family
+$base-font-family: "Georgia", serif;
+
+// 2. Import the Minima theme styles so they use your new variable
+@import "minima";
