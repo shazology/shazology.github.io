@@ -2,7 +2,7 @@ title: "Shazny Ramlan"
 description: "In dubio pro Natura"
 
 url: "https://shazology.github.io"
-baseurl: "/shazology"
+baseurl: ""
 
 markdown: kramdown
 theme: minima
