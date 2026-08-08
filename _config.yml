@@ -1,1 +1,8 @@
+title: "Shazny Ramlan"
+description: "Researcher in law, sustainability, and religion"
+
+url: "https://shazology.github.io"
+baseurl: ""
+
+markdown: kramdown
 theme: minima
