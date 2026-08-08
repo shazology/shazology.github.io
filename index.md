@@ -2,6 +2,8 @@
 
 ![Ich bin naturfreund](/_assets/img/token_1.png)
 
+<img src="/_assets/img/token_1.png" alt="Ich bin naturfreund" style="width:15rem;height:15rem;">
+
 I am Shazny, but you can call me Shaz. 
 
 I am an adjunct lecturer at [Temasek Polytechnic](https://www.tp.edu.sg/), I teach the core *Sustainability and Climate Action* module to first-year diploma students.
