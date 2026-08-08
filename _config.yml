@@ -1,5 +1,4 @@
-theme: minima
-skin: classic
+theme: modernist
 
 nav_pages:
   - research.md
