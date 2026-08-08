@@ -1,4 +1,4 @@
-<h2>Hello and welcome to my site 👋</h2>
+<h2><b>Hello and welcome to my site 👋</b></h2>
 
 <img src="/_assets/img/token_1.png" alt="" style="float: right;width:15rem;height:15rem;">
 
