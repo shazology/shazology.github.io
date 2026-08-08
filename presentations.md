@@ -1,5 +1,4 @@
 ---
-title: Presentations
 url: /presentations/
 ---
 
