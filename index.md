@@ -1,8 +1,6 @@
 <h2>Hello and welcome to my site 👋</h2>
 
-![Ich bin naturfreund](/_assets/img/token_1.png)
-
-<img src="/_assets/img/token_1.png" alt="Ich bin naturfreund" style="width:15rem;height:15rem;">
+<img src="https://i1.rgstatic.net/ii/profile.image/979353265516552-1610507422711_Q512/Shazny-Ramlan.jpg" alt="me" style="width:15rem;height:15rem;">
 
 I am Shazny, but you can call me Shaz. 
 
