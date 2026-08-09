@@ -1,4 +1,4 @@
-<img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:18rem;height:24rem;margin=20rem;">
+<img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:18rem;height:24rem;margin:20px;">
 
 I am an adjunct lecturer of sustainability at [Temasek Polytechnic](https://www.tp.edu.sg/) and was former researcher at the [NUS Faculty of Law](https://law.nus.edu.sg/). I received my [M.Sc. (Environmental Management)](https://scale.nus.edu.sg/programmes/graduate/msc-(environmental-management)) (2024) and [LL.B.](https://law1a.nus.edu.sg/admissions/4_yrs_llb_prog.html) (2018) at the National University of Singapore. My research primarily studies how religious actors "do" sustainability; and the legal, institutional, and sociological challenges they face. Beyond academia, I serve on the panel of volunteer mediators of the [Syariah Court of Singapore](https://cm.syariahcourt.gov.sg/Home).
 
