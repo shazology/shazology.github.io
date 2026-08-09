@@ -1,6 +1,6 @@
 <img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:15rem;height:20rem;">
 
-I am an adjunct lecturer of sustainability at [Temasek Polytechnic](https://www.tp.edu.sg/) and was previously a researcher at the [NUS Faculty of Law](https://law.nus.edu.sg/).
+Welcome to my site! I am an adjunct lecturer of sustainability at [Temasek Polytechnic](https://www.tp.edu.sg/) and was previously a researcher at the [NUS Faculty of Law](https://law.nus.edu.sg/).
 
 My research generally concerns how religious and corporate actors rationalise and implement sustainability; and the legal, political and sociological challenges therefrom.
 
