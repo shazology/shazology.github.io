@@ -3,7 +3,7 @@
 
 Welcome to my site! I am an adjunct lecturer of sustainability at [Temasek Polytechnic](https://www.tp.edu.sg/) and was previously a researcher at the [NUS Faculty of Law](https://law.nus.edu.sg/).
 
-My research generally concerns how religious and corporate actors rationalise and implement sustainability; and the legal, political and sociological challenges therefrom.
+I'm a socio-legal researcher who studies the hows and whys religious actors "do" sustainability; and the legal, institutional, and sociological challenges they face. 
 
 Beyond academia, I serve on the panel of volunteer mediators of the [Syariah Court of Singapore](https://cm.syariahcourt.gov.sg/Home).
 
