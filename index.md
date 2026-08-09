@@ -1,6 +1,6 @@
 <h2><b>Hello and welcome to my site 👋</b></h2>
 
-<img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:15rem;height:30rem;">
+<img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:15rem;height:20rem;">
 
 I am Shazny, but you can call me Shaz.
 
