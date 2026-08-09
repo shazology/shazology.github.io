@@ -15,6 +15,7 @@ Here are my publications to date.
 [Halsbury’s Laws of Singapore: Volume 13(4), Islamic Law](https://store.lexisnexis.com/en-sg/halsbury-s-laws-of-singapore-volume-13-4-islamic-law-2021-issue-book.html) (LexisNexis, 2021) (with Arif Jamal)
 
 **Book chapters**
+<br>
 [A critical appraisal of state-supported, “public” Islamic environmental law through the case studies of Singapore, Malaysia, and Indonesia](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-islam-and-environmental-law/critical-appraisal-of-statesupported-public-islamic-environmental-law-through-the-case-studies-of-singapore-malaysia-and-indonesia/0B3F6E24C43049DC3C077CCB8A37E9A3) (*The Cambridge Handbook of Islam and Environmental Law*, 2026)<br>
 [Khutbah Sebagai Medium Advokasi Pemeliharaan Alam Sekitar](https://www.researchgate.net/publication/391812110_Khutbah_Sebagai_Medium_Advokasi_Pemeliharaan_Alam_Sekitar) (*Pemeliharaan Alam dan Air: Perspektif Syariah dan Isu Perundangan*, 2023)<br>
 [Fatwa berkenaan Alam Sekitar di Nusantara](https://www.researchgate.net/publication/391811889_Fatwa_berkenaan_Alam_Sekitar_di_Nusantara) (*Pemeliharaan Alam dan Air: Perspektif Syariah dan Isu Perundangan*, 2023)<br>
