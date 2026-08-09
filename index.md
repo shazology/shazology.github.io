@@ -2,7 +2,6 @@
 
 <img src="/_assets/img/bio_shaz.png" alt="" style="float: right;width:15rem;height:20rem;">
 
-
 <h3><b>Contact</b></h3>
 - [LinkedIn](https://www.linkedin.com/in/sr09/) 
 - [Google Scholar](https://scholar.google.com/citations?user=judjVx4AAAAJ&hl=en)
