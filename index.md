@@ -26,6 +26,3 @@ Beyond academia, I serve on the panel of volunteer mediators of the [Syariah Cou
 - [Singapore Heritage Society](https://www.instagram.com/sgheritagesociety/?hl=en) 
 - [Al-Mizan Singapore](https://www.almizan.sg/)
 
-
-
-You may connect with me via 
