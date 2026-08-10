@@ -8,7 +8,6 @@ markdown: kramdown
 theme: minima
 
 header_pages:
-  - research.md
   - publications.md
   - presentations.md
 
