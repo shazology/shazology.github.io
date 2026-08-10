@@ -5,7 +5,7 @@ url: "https://shazology.github.io"
 baseurl: ""
 
 markdown: kramdown
-theme: aterenin/minima-reboot
+theme: minima
 
 header_pages:
   - research.md
