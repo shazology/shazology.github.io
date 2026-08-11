@@ -24,14 +24,14 @@ url: /presentations/
 
 <table>
   <tr>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
   </tr>
   <tr>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
   </tr>
 </table>
 
