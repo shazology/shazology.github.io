@@ -21,3 +21,18 @@ url: /presentations/
 *L4013/LL5013/LL6013 Comparative Environmental Law (Faculty of Law, National University of Singapore)*
 - [Theocratic Legal Traditions: Islamic Environmental Law](https://drive.google.com/file/d/1kClPYZkbg9tawlphmiAOPH_QVVbU6DoU/view) (Feb. 19, 2019)
 - [Environmental Protection - An Islamic Perspective](https://drive.google.com/file/d/1LntQ0rnxn3T5ZxjFNOXvOHHSQS1SXbTm/view) (Sep. 13, 2018)
+
+<table>
+  <tr>
+    <td><img src="image1.jpg" width="200" alt="Image 1"></td>
+    <td><img src="image2.jpg" width="200" alt="Image 2"></td>
+    <td><img src="image3.jpg" width="200" alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td><img src="image4.jpg" width="200" alt="Image 4"></td>
+    <td><img src="image5.jpg" width="200" alt="Image 5"></td>
+    <td><img src="image6.jpg" width="200" alt="Image 6"></td>
+  </tr>
+</table>
+
+
