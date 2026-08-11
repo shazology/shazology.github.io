@@ -24,14 +24,14 @@ url: /presentations/
 
 <table>
   <tr>
-    <td><img src="token_1.png" width="200" alt="Image 1"></td>
-    <td><img src="token_1.png" width="200" alt="Image 2"></td>
-    <td><img src="token_1.png" width="200" alt="Image 3"></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
   </tr>
   <tr>
-    <td><img src="token_1.png" width="200" alt="Image 4"></td>
-    <td><img src="token_1.png" width="200" alt="Image 5"></td>
-    <td><img src="token_1.png" width="200" alt="Image 6"></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
+    <td><img src="token_1.png" style="width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
   </tr>
 </table>
 
