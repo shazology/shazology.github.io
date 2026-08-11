@@ -22,17 +22,3 @@ url: /presentations/
 - [Theocratic Legal Traditions: Islamic Environmental Law](https://drive.google.com/file/d/1kClPYZkbg9tawlphmiAOPH_QVVbU6DoU/view) (Feb. 19, 2019)
 - [Environmental Protection - An Islamic Perspective](https://drive.google.com/file/d/1LntQ0rnxn3T5ZxjFNOXvOHHSQS1SXbTm/view) (Sep. 13, 2018)
 
-<table>
-  <tr>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-  </tr>
-  <tr>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-    <td><img src="token_1.png" style="float: bottom;width: 18rem;height: 18rem;margin: 0px 10px 10px 10px;></td>
-  </tr>
-</table>
-
-
