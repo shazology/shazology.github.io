@@ -5,7 +5,8 @@ url: "https://shazology.github.io"
 baseurl: ""
 
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
 
 header_pages:
   - publications.md
