@@ -1,0 +1,10 @@
+---
+---
+/* 1. Define your custom font variables first */
+$base-font-family: "Georgia", serif;
+$code-font-family: "Courier New", monospace;
+
+$base-font-size:   17px; // Optional: Change base font size (default is 16px)
+
+/* 2. Load the Minima theme layout and rules */
+@import "minima";
